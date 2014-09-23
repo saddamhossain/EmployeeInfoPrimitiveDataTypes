@@ -1,0 +1,8 @@
+D:\00.  BASIS  .00\IMPORTANT FULL FETURE APPLICATION\EmployeeInfo_PrimitiveDataTypes_List\EmployeeInfo_PrimitiveDataTypes_List\bin\Debug\EmployeeInfo_PrimitiveDataTypes_List.exe.config
+D:\00.  BASIS  .00\IMPORTANT FULL FETURE APPLICATION\EmployeeInfo_PrimitiveDataTypes_List\EmployeeInfo_PrimitiveDataTypes_List\bin\Debug\EmployeeInfo_PrimitiveDataTypes_List.exe
+D:\00.  BASIS  .00\IMPORTANT FULL FETURE APPLICATION\EmployeeInfo_PrimitiveDataTypes_List\EmployeeInfo_PrimitiveDataTypes_List\bin\Debug\EmployeeInfo_PrimitiveDataTypes_List.pdb
+D:\00.  BASIS  .00\IMPORTANT FULL FETURE APPLICATION\EmployeeInfo_PrimitiveDataTypes_List\EmployeeInfo_PrimitiveDataTypes_List\obj\Debug\EmployeeInfo_PrimitiveDataTypes_List.EmployeeInfoUI.resources
+D:\00.  BASIS  .00\IMPORTANT FULL FETURE APPLICATION\EmployeeInfo_PrimitiveDataTypes_List\EmployeeInfo_PrimitiveDataTypes_List\obj\Debug\EmployeeInfo_PrimitiveDataTypes_List.Properties.Resources.resources
+D:\00.  BASIS  .00\IMPORTANT FULL FETURE APPLICATION\EmployeeInfo_PrimitiveDataTypes_List\EmployeeInfo_PrimitiveDataTypes_List\obj\Debug\EmployeeInfo_PrimitiveDataTypes_List.csproj.GenerateResource.Cache
+D:\00.  BASIS  .00\IMPORTANT FULL FETURE APPLICATION\EmployeeInfo_PrimitiveDataTypes_List\EmployeeInfo_PrimitiveDataTypes_List\obj\Debug\EmployeeInfo_PrimitiveDataTypes_List.exe
+D:\00.  BASIS  .00\IMPORTANT FULL FETURE APPLICATION\EmployeeInfo_PrimitiveDataTypes_List\EmployeeInfo_PrimitiveDataTypes_List\obj\Debug\EmployeeInfo_PrimitiveDataTypes_List.pdb
